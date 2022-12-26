@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/01 - Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/02 - TiposDados.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03 - Mutavel&amp;Imutavel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/04 - ConcatenacaoStrings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/05 - OperadoresAritmeticos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/06 - Exercicios-01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07 - Funcoes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/08 - FuncoesLinhaUnica.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/09 - FuncoesDeString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10 - FuncoesMatematicas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/11 - Exercicios-02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/12 - If_Else_ElseIf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13 - If_Else_ComoInstrucao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/14 - Exercicios-03.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2JTCMyuUB3WzCNMqdIsEkaPU3ZZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/natha/Documents/Dev/Kotlin/Kotlin-practice/src/main/kotlin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin._04___ConcatenacaoStringsKt">
+    <configuration name="_03___Mutavel_ImutavelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03___Mutavel_ImutavelKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04___ConcatenacaoStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04___ConcatenacaoStringsKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._04___ConcatenacaoStringsKt" />
+        <item itemvalue="Kotlin._03___Mutavel_ImutavelKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="" />
+      <created>1672092645540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672092645540</updated>
+    </task>
+    <servers />
+  </component>
+</project>
