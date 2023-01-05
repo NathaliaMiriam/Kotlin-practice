@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/15 - When.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/16 - LeituraDeDados.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/17 - Exercicios-04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/18 - Exercicio-04-4.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="flow control">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/19 - Exercicio-04-4.2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/20 - For.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/18 - Exercicio-04-4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/18 - Exercicio-04-4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,21 +51,7 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._18___Exercicio_04_4Kt">
-    <configuration name="_14___Exercicios_03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14___Exercicios_03Kt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_15___WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15___WhenKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._20___ForKt">
     <configuration name="_16___LeituraDeDadosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_16___LeituraDeDadosKt" />
       <module name="Kotlin-practice" />
@@ -89,13 +73,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_19___Exercicio_04_4_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_19___Exercicio_04_4_2Kt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_20___ForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_20___ForKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._20___ForKt" />
         <item itemvalue="Kotlin._18___Exercicio_04_4Kt" />
+        <item itemvalue="Kotlin._19___Exercicio_04_4_2Kt" />
         <item itemvalue="Kotlin._17___Exercicios_04Kt" />
         <item itemvalue="Kotlin._16___LeituraDeDadosKt" />
-        <item itemvalue="Kotlin._15___WhenKt" />
-        <item itemvalue="Kotlin._14___Exercicios_03Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -108,6 +106,18 @@
       <option name="presentableId" value="Default" />
       <updated>1672092645540</updated>
     </task>
+    <task id="LOCAL-00001" summary="flow control">
+      <created>1672183385840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672183385840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="flow control" />
+    <option name="LAST_COMMIT_MESSAGE" value="flow control" />
   </component>
 </project>

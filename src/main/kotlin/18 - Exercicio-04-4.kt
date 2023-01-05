@@ -8,20 +8,25 @@ fun main() {
 
         if (idadeUsuario >= 18) {
             println("Idade permitida! Informe o tipo de convite: ")
-            val conviteUsuario = readLine()
+            var conviteUsuario = readLine()
 
             if (conviteUsuario == "comum" ||
                 conviteUsuario == "premium" ||
                 conviteUsuario == "luxo") {
                 println("Tipo de convite válido! Informe o código: ")
-                val codigoUsuario = readln()
+                var codigoUsuario = readLine()
 
-                if (codigoUsuario.startsWith("XL") && (conviteUsuario == "premium" || conviteUsuario == "luxo")) {
-                    println("Welcome :D")
-                } else if (codigoUsuario.startsWith("XT") && conviteUsuario == "comum") {
-                    println("Welcome :D")
-                } else {
-                    println("Negado! Convite inválido.")
+                if (codigoUsuario != null && codigoUsuario != "") {
+                    if (codigoUsuario.startsWith("xl") &&
+                        (conviteUsuario == "premium" || conviteUsuario == "luxo")) {
+                        println("Welcome :D")
+                    } else {
+                        if (codigoUsuario.startsWith("xt") && conviteUsuario == "comum") {
+                            println("Welcome :D")
+                        } else {
+                            println("Negado! Convite inválido.")
+                        }
+                    }
                 }
 
             } else {
