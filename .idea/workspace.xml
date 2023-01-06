@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="flow control">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/19 - Exercicio-04-4.2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/20 - For.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/21 - While.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/22 - DoWhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/23 - Continue_Break.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/24 - Exercicios-05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/25 - Exercicios-05.2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/01 - Strings.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/18 - Exercicio-04-4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/18 - Exercicio-04-4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,37 +54,37 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._20___ForKt">
-    <configuration name="_16___LeituraDeDadosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_16___LeituraDeDadosKt" />
+  <component name="RunManager" selected="Kotlin._01___StringsKt">
+    <configuration name="_01___StringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extras._01___StringsKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_17___Exercicios_04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_17___Exercicios_04Kt" />
+    <configuration name="_22___DoWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_22___DoWhileKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_18___Exercicio_04_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_18___Exercicio_04_4Kt" />
+    <configuration name="_23___Continue_BreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_23___Continue_BreakKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_19___Exercicio_04_4_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_19___Exercicio_04_4_2Kt" />
+    <configuration name="_24___Exercicios_05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_24___Exercicios_05Kt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_20___ForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_20___ForKt" />
+    <configuration name="_25___Exercicios_05_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_25___Exercicios_05_2Kt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._20___ForKt" />
-        <item itemvalue="Kotlin._18___Exercicio_04_4Kt" />
-        <item itemvalue="Kotlin._19___Exercicio_04_4_2Kt" />
-        <item itemvalue="Kotlin._17___Exercicios_04Kt" />
-        <item itemvalue="Kotlin._16___LeituraDeDadosKt" />
+        <item itemvalue="Kotlin._01___StringsKt" />
+        <item itemvalue="Kotlin._25___Exercicios_05_2Kt" />
+        <item itemvalue="Kotlin._24___Exercicios_05Kt" />
+        <item itemvalue="Kotlin._23___Continue_BreakKt" />
+        <item itemvalue="Kotlin._22___DoWhileKt" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672183385840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="flow control">
+      <created>1672880808806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672880808806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
