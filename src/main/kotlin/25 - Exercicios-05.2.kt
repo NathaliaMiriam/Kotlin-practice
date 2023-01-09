@@ -10,6 +10,7 @@ fun main() {
     }
     //print(contador - 1)
 
+
     //2
     /*var i = 1
 
@@ -30,12 +31,14 @@ fun main() {
         }
     }*/
 
+
     //3
     /*println("Insira uma frase: ")
     var phrase = readLine()
 
     var phraseReverted = phrase!!.reversed()
     println(phraseReverted)*/
+
 
     //4
     println(verifyXO("xxooox"))

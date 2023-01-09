@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="flow control">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/21 - While.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/22 - DoWhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/23 - Continue_Break.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/24 - Exercicios-05.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/25 - Exercicios-05.2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/01 - Strings.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="flow control and extra exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/26 - NullSafety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/27 - Try_Catch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/28 - Finally.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/29 - Exception.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/30 - ElvisOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/31 - Let.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/25 - Exercicios-05.2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/25 - Exercicios-05.2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -31,60 +36,64 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2JTCMyuUB3WzCNMqdIsEkaPU3ZZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Documents/Dev/Kotlin/Kotlin-practice/src/main/kotlin&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/natha/Documents/Dev/Kotlin/Kotlin-practice/src/main/kotlin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._01___StringsKt">
-    <configuration name="_01___StringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extras._01___StringsKt" />
+  <component name="RunManager" selected="Kotlin._31___LetKt">
+    <configuration name="_26___NullSafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_26___NullSafetyKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_22___DoWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_22___DoWhileKt" />
+    <configuration name="_27___Try_CatchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_27___Try_CatchKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_23___Continue_BreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_23___Continue_BreakKt" />
+    <configuration name="_28___FinallyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_28___FinallyKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_24___Exercicios_05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_24___Exercicios_05Kt" />
+    <configuration name="_29___ExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_29___ExceptionKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_25___Exercicios_05_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_25___Exercicios_05_2Kt" />
+    <configuration name="_31___LetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_31___LetKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._01___StringsKt" />
-        <item itemvalue="Kotlin._25___Exercicios_05_2Kt" />
-        <item itemvalue="Kotlin._24___Exercicios_05Kt" />
-        <item itemvalue="Kotlin._23___Continue_BreakKt" />
-        <item itemvalue="Kotlin._22___DoWhileKt" />
+        <item itemvalue="Kotlin._31___LetKt" />
+        <item itemvalue="Kotlin._26___NullSafetyKt" />
+        <item itemvalue="Kotlin._27___Try_CatchKt" />
+        <item itemvalue="Kotlin._29___ExceptionKt" />
+        <item itemvalue="Kotlin._28___FinallyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -123,11 +132,19 @@
       <option name="project" value="LOCAL" />
       <updated>1672880808806</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="flow control and extra exercises">
+      <created>1673046098306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673046098306</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flow control" />
-    <option name="LAST_COMMIT_MESSAGE" value="flow control" />
+    <MESSAGE value="flow control and extra exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="flow control and extra exercises" />
   </component>
 </project>
