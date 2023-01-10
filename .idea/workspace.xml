@@ -7,15 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="flow control and extra exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/26 - NullSafety.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/27 - Try_Catch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/28 - Finally.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/29 - Exception.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/30 - ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/31 - Let.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="exceptions, elvis operator and let">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/02 - Strings.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/25 - Exercicios-05.2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/25 - Exercicios-05.2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,25 +39,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/natha/Documents/Dev/Kotlin/Kotlin-practice/src/main/kotlin",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Documents/Dev/Kotlin/Kotlin-practice/src/main/kotlin&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._31___LetKt">
+  <component name="RunManager" selected="Kotlin._02___StringsKt">
+    <configuration name="_02___StringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extras._02___StringsKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_26___NullSafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_26___NullSafetyKt" />
       <module name="Kotlin-practice" />
@@ -73,13 +74,6 @@
     </configuration>
     <configuration name="_27___Try_CatchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_27___Try_CatchKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_28___FinallyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_28___FinallyKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._02___StringsKt" />
         <item itemvalue="Kotlin._31___LetKt" />
         <item itemvalue="Kotlin._26___NullSafetyKt" />
         <item itemvalue="Kotlin._27___Try_CatchKt" />
         <item itemvalue="Kotlin._29___ExceptionKt" />
-        <item itemvalue="Kotlin._28___FinallyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -139,12 +133,20 @@
       <option name="project" value="LOCAL" />
       <updated>1673046098306</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exceptions, elvis operator and let">
+      <created>1673305285132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673305285132</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flow control" />
     <MESSAGE value="flow control and extra exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="flow control and extra exercises" />
+    <MESSAGE value="exceptions, elvis operator and let" />
+    <option name="LAST_COMMIT_MESSAGE" value="exceptions, elvis operator and let" />
   </component>
 </project>
