@@ -7,8 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="exceptions, elvis operator and let">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/02 - Strings.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="extra exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/32 - FuncoesParametros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/33 - Any_Unit_Nothing.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._02___StringsKt">
+  <component name="RunManager" selected="Kotlin._32___FuncoesParametrosKt">
     <configuration name="_02___StringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extras._02___StringsKt" />
       <module name="Kotlin-practice" />
@@ -79,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_29___ExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_29___ExceptionKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_31___LetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_31___LetKt" />
       <module name="Kotlin-practice" />
@@ -93,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_32___FuncoesParametrosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_32___FuncoesParametrosKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._32___FuncoesParametrosKt" />
         <item itemvalue="Kotlin._02___StringsKt" />
         <item itemvalue="Kotlin._31___LetKt" />
         <item itemvalue="Kotlin._26___NullSafetyKt" />
         <item itemvalue="Kotlin._27___Try_CatchKt" />
-        <item itemvalue="Kotlin._29___ExceptionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -140,13 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673305285132</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="extra exercises">
+      <created>1673392118466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673392118466</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flow control" />
     <MESSAGE value="flow control and extra exercises" />
     <MESSAGE value="exceptions, elvis operator and let" />
-    <option name="LAST_COMMIT_MESSAGE" value="exceptions, elvis operator and let" />
+    <MESSAGE value="extra exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="extra exercises" />
   </component>
 </project>
