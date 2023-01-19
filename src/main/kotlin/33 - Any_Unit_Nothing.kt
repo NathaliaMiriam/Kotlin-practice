@@ -24,4 +24,3 @@ fun valores3(value: Any): Unit {
 fun valores4(value: Any): Nothing {
     TODO("Não implementado")
 }
-
