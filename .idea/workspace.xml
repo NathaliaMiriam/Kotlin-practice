@@ -7,8 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="classes, attributes, methods, constructors, init, get, set and field">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/38 - ClasseEnum.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="enum class">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/39 - ClassVsDataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/40 - With.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/41 - Lateinit.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,21 +59,7 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._38___ClasseEnumKt">
-    <configuration name="_02___StringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extras._02___StringsKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_31___LetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_31___LetKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._41___LateinitKt">
     <configuration name="_32___FuncoesParametrosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_32___FuncoesParametrosKt" />
       <module name="Kotlin-practice" />
@@ -93,13 +81,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_39___ClassVsDataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_39___ClassVsDataClassKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_41___LateinitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_41___LateinitKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._41___LateinitKt" />
+        <item itemvalue="Kotlin._39___ClassVsDataClassKt" />
         <item itemvalue="Kotlin._38___ClasseEnumKt" />
         <item itemvalue="Kotlin._36___InitKt" />
         <item itemvalue="Kotlin._32___FuncoesParametrosKt" />
-        <item itemvalue="Kotlin._02___StringsKt" />
-        <item itemvalue="Kotlin._31___LetKt" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674159227110</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="enum class">
+      <created>1674161427087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674161427087</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +180,7 @@
     <MESSAGE value="extra exercises" />
     <MESSAGE value="parameters, any, unit and nothing" />
     <MESSAGE value="classes, attributes, methods, constructors, init, get, set and field" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes, attributes, methods, constructors, init, get, set and field" />
+    <MESSAGE value="enum class" />
+    <option name="LAST_COMMIT_MESSAGE" value="enum class" />
   </component>
 </project>
