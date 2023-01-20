@@ -7,10 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="enum class">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/39 - ClassVsDataClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/40 - With.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/41 - Lateinit.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="class vs data class, with and lateinit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/42 - Herança.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,14 +57,7 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._41___LateinitKt">
-    <configuration name="_32___FuncoesParametrosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_32___FuncoesParametrosKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._42___HerançaKt">
     <configuration name="_36___InitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_36___InitKt" />
       <module name="Kotlin-practice" />
@@ -95,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_42___HerançaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_42___HerançaKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._42___HerançaKt" />
         <item itemvalue="Kotlin._41___LateinitKt" />
         <item itemvalue="Kotlin._39___ClassVsDataClassKt" />
         <item itemvalue="Kotlin._38___ClasseEnumKt" />
         <item itemvalue="Kotlin._36___InitKt" />
-        <item itemvalue="Kotlin._32___FuncoesParametrosKt" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674161427087</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="class vs data class, with and lateinit">
+      <created>1674247127613</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674247127613</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,6 +186,7 @@
     <MESSAGE value="parameters, any, unit and nothing" />
     <MESSAGE value="classes, attributes, methods, constructors, init, get, set and field" />
     <MESSAGE value="enum class" />
-    <option name="LAST_COMMIT_MESSAGE" value="enum class" />
+    <MESSAGE value="class vs data class, with and lateinit" />
+    <option name="LAST_COMMIT_MESSAGE" value="class vs data class, with and lateinit" />
   </component>
 </project>
