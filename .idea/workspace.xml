@@ -7,11 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="heritage">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/43 - ModificadoresDeVisibilidade.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/44 - Override&amp;Overload.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="visibility modifiers, override and overload">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/03 - Classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/04 - Classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/05 - Classes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/35 - ConstrutoresPrimariosSecundarios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/35 - ConstrutoresPrimario&amp;Secundario.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,23 +59,23 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._42___HerançaKt">
-    <configuration name="_36___InitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_36___InitKt" />
+  <component name="RunManager" selected="Kotlin._05___ClassesKt">
+    <configuration name="_03___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extras._03___ClassesKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_38___ClasseEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_38___ClasseEnumKt" />
+    <configuration name="_04___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extras._04___ClassesKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_39___ClassVsDataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_39___ClassVsDataClassKt" />
+    <configuration name="_05___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extras._05___ClassesKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._05___ClassesKt" />
+        <item itemvalue="Kotlin._04___ClassesKt" />
+        <item itemvalue="Kotlin._03___ClassesKt" />
         <item itemvalue="Kotlin._42___HerançaKt" />
         <item itemvalue="Kotlin._41___LateinitKt" />
-        <item itemvalue="Kotlin._39___ClassVsDataClassKt" />
-        <item itemvalue="Kotlin._38___ClasseEnumKt" />
-        <item itemvalue="Kotlin._36___InitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674250954496</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="visibility modifiers, override and overload">
+      <created>1674508459361</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674508459361</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +204,7 @@
     <MESSAGE value="enum class" />
     <MESSAGE value="class vs data class, with and lateinit" />
     <MESSAGE value="heritage" />
-    <option name="LAST_COMMIT_MESSAGE" value="heritage" />
+    <MESSAGE value="visibility modifiers, override and overload" />
+    <option name="LAST_COMMIT_MESSAGE" value="visibility modifiers, override and overload" />
   </component>
 </project>
