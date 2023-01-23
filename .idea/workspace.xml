@@ -7,9 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="class vs data class, with and lateinit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/42 - Herança.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="heritage">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/43 - ModificadoresDeVisibilidade.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/44 - Override&amp;Overload.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/35 - ConstrutoresPrimariosSecundarios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/35 - ConstrutoresPrimario&amp;Secundario.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674247127613</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="heritage">
+      <created>1674250954496</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674250954496</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +196,7 @@
     <MESSAGE value="classes, attributes, methods, constructors, init, get, set and field" />
     <MESSAGE value="enum class" />
     <MESSAGE value="class vs data class, with and lateinit" />
-    <option name="LAST_COMMIT_MESSAGE" value="class vs data class, with and lateinit" />
+    <MESSAGE value="heritage" />
+    <option name="LAST_COMMIT_MESSAGE" value="heritage" />
   </component>
 </project>
