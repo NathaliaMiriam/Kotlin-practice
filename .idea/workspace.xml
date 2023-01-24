@@ -7,10 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="visibility modifiers, override and overload">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/03 - Classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/04 - Classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/05 - Classes.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="extra exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/45 - Object&amp;CompanionObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/46 - ClasseAbstrata.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/06 - Classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/07 - Classes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,14 +60,7 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._05___ClassesKt">
-    <configuration name="_03___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extras._03___ClassesKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._07___ClassesKt">
     <configuration name="_04___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extras._04___ClassesKt" />
       <module name="Kotlin-practice" />
@@ -81,15 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_41___LateinitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_41___LateinitKt" />
+    <configuration name="_06___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extras._06___ClassesKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_42___HerançaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_42___HerançaKt" />
+    <configuration name="_07___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extras._07___ClassesKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_45___Object_CompanionObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_45___Object_CompanionObjectKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._07___ClassesKt" />
+        <item itemvalue="Kotlin._06___ClassesKt" />
+        <item itemvalue="Kotlin._45___Object_CompanionObjectKt" />
         <item itemvalue="Kotlin._05___ClassesKt" />
         <item itemvalue="Kotlin._04___ClassesKt" />
-        <item itemvalue="Kotlin._03___ClassesKt" />
-        <item itemvalue="Kotlin._42___HerançaKt" />
-        <item itemvalue="Kotlin._41___LateinitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -191,20 +192,27 @@
       <option name="project" value="LOCAL" />
       <updated>1674508459361</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="extra exercises">
+      <created>1674515480640</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674515480640</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flow control" />
     <MESSAGE value="flow control and extra exercises" />
     <MESSAGE value="exceptions, elvis operator and let" />
-    <MESSAGE value="extra exercises" />
     <MESSAGE value="parameters, any, unit and nothing" />
     <MESSAGE value="classes, attributes, methods, constructors, init, get, set and field" />
     <MESSAGE value="enum class" />
     <MESSAGE value="class vs data class, with and lateinit" />
     <MESSAGE value="heritage" />
     <MESSAGE value="visibility modifiers, override and overload" />
-    <option name="LAST_COMMIT_MESSAGE" value="visibility modifiers, override and overload" />
+    <MESSAGE value="extra exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="extra exercises" />
   </component>
 </project>
