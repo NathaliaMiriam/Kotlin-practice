@@ -7,11 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="extra exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/45 - Object&amp;CompanionObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/46 - ClasseAbstrata.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/06 - Classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extras/07 - Classes.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="object, companion object, abstract class and extra exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/47 - Interface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/48 - Polimorfismo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/49 - ClasseAnonima.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,14 +59,7 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._07___ClassesKt">
-    <configuration name="_04___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extras._04___ClassesKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._48___PolimorfismoKt">
     <configuration name="_05___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extras._05___ClassesKt" />
       <module name="Kotlin-practice" />
@@ -96,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_48___PolimorfismoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_48___PolimorfismoKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._48___PolimorfismoKt" />
         <item itemvalue="Kotlin._07___ClassesKt" />
         <item itemvalue="Kotlin._06___ClassesKt" />
         <item itemvalue="Kotlin._45___Object_CompanionObjectKt" />
         <item itemvalue="Kotlin._05___ClassesKt" />
-        <item itemvalue="Kotlin._04___ClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674515480640</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="object, companion object, abstract class and extra exercises">
+      <created>1674603091027</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674603091027</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +219,7 @@
     <MESSAGE value="heritage" />
     <MESSAGE value="visibility modifiers, override and overload" />
     <MESSAGE value="extra exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="extra exercises" />
+    <MESSAGE value="object, companion object, abstract class and extra exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="object, companion object, abstract class and extra exercises" />
   </component>
 </project>
