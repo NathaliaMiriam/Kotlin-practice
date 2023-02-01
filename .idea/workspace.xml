@@ -7,10 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="object, companion object, abstract class and extra exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/47 - Interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/48 - Polimorfismo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/49 - ClasseAnonima.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="interface, polymorphism and anonymous class">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/50 - List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/51 - Set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/52 - Map.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,30 +59,9 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._48___PolimorfismoKt">
-    <configuration name="_05___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extras._05___ClassesKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_06___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extras._06___ClassesKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._52___MapKt">
     <configuration name="_07___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extras._07___ClassesKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_45___Object_CompanionObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_45___Object_CompanionObjectKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,13 +74,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_50___ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_50___ListKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_51___SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_51___SetKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_52___MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_52___MapKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._52___MapKt" />
+        <item itemvalue="Kotlin._51___SetKt" />
+        <item itemvalue="Kotlin._50___ListKt" />
         <item itemvalue="Kotlin._48___PolimorfismoKt" />
         <item itemvalue="Kotlin._07___ClassesKt" />
-        <item itemvalue="Kotlin._06___ClassesKt" />
-        <item itemvalue="Kotlin._45___Object_CompanionObjectKt" />
-        <item itemvalue="Kotlin._05___ClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674603091027</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="interface, polymorphism and anonymous class">
+      <created>1674769072737</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674769072737</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +227,7 @@
     <MESSAGE value="visibility modifiers, override and overload" />
     <MESSAGE value="extra exercises" />
     <MESSAGE value="object, companion object, abstract class and extra exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="object, companion object, abstract class and extra exercises" />
+    <MESSAGE value="interface, polymorphism and anonymous class" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface, polymorphism and anonymous class" />
   </component>
 </project>
