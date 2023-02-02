@@ -7,10 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="interface, polymorphism and anonymous class">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/50 - List.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/51 - Set.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/52 - Map.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="list, set and map">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/53 - Any_Count_First_Last.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,14 +57,7 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._52___MapKt">
-    <configuration name="_07___ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extras._07___ClassesKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._53___Any_Count_First_LastKt">
     <configuration name="_48___PolimorfismoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_48___PolimorfismoKt" />
       <module name="Kotlin-practice" />
@@ -95,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_53___Any_Count_First_LastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_53___Any_Count_First_LastKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._53___Any_Count_First_LastKt" />
         <item itemvalue="Kotlin._52___MapKt" />
         <item itemvalue="Kotlin._51___SetKt" />
         <item itemvalue="Kotlin._50___ListKt" />
         <item itemvalue="Kotlin._48___PolimorfismoKt" />
-        <item itemvalue="Kotlin._07___ClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674769072737</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="list, set and map">
+      <created>1675278531436</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675278531436</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,6 +233,7 @@
     <MESSAGE value="extra exercises" />
     <MESSAGE value="object, companion object, abstract class and extra exercises" />
     <MESSAGE value="interface, polymorphism and anonymous class" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface, polymorphism and anonymous class" />
+    <MESSAGE value="list, set and map" />
+    <option name="LAST_COMMIT_MESSAGE" value="list, set and map" />
   </component>
 </project>
