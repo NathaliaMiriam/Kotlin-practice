@@ -2,10 +2,10 @@ fun main() {
     val data = geraDados()
 
     //any
-    //println("Tenho dados? ${if (data.any()) "sim" else "não"}")
+    println("Tenho dados? ${if (data.any()) "sim" else "não"}")
 
     //count
-    //println("Tenho ${data.count()} elementos")
+    println("Tenho ${data.count()} elementos")
 
     //first
     println("Primeira receita: ${data.first().nome}")
