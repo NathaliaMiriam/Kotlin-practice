@@ -7,11 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="any, count, first and last">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/54 - Sum&amp;SumOf_Filter_Take&amp;Takelast.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/55 - ForEach_Max&amp;Min_Map_Average.kt" afterDir="false" />
+    <list default="true" id="ce7cb37a-befd-4938-a556-acc6ba513b87" name="Changes" comment="sum&amp;sumOf, filter, take&amp;takelast, forEach, max&amp;min, map and average">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/56 - Distinct_Sorted_Reversed.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/53 - Any_Count_First_Last.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/53 - Any_Count_First_Last.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +57,7 @@
       <recent name="C:\Users\natha\Documents\Dev\Kotlin\Kotlin-practice\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._55___ForEach_Max_Min_Map_AverageKt">
-    <configuration name="_51___SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_51___SetKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._56___Distinct_Sorted_ReversedKt">
     <configuration name="_52___MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_52___MapKt" />
       <module name="Kotlin-practice" />
@@ -95,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_56___Distinct_Sorted_ReversedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_56___Distinct_Sorted_ReversedKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._56___Distinct_Sorted_ReversedKt" />
         <item itemvalue="Kotlin._55___ForEach_Max_Min_Map_AverageKt" />
         <item itemvalue="Kotlin._54___Sum_SumOf_Filter_Take_TakelastKt" />
         <item itemvalue="Kotlin._53___Any_Count_First_LastKt" />
         <item itemvalue="Kotlin._52___MapKt" />
-        <item itemvalue="Kotlin._51___SetKt" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675377998509</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="sum&amp;sumOf, filter, take&amp;takelast, forEach, max&amp;min, map and average">
+      <created>1675895326213</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675895326213</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,6 +249,7 @@
     <MESSAGE value="interface, polymorphism and anonymous class" />
     <MESSAGE value="list, set and map" />
     <MESSAGE value="any, count, first and last" />
-    <option name="LAST_COMMIT_MESSAGE" value="any, count, first and last" />
+    <MESSAGE value="sum&amp;sumOf, filter, take&amp;takelast, forEach, max&amp;min, map and average" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum&amp;sumOf, filter, take&amp;takelast, forEach, max&amp;min, map and average" />
   </component>
 </project>
